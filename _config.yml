@@ -8,16 +8,16 @@ about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
 favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
 basecss: 
 # Theme specific configuration
-title: Life of Developer @by Daniel Pham
+title: Life of Developer 
 description: >
   A developer, translator and also father of a cute girl.
 
 # Contact and social media links
-twitter_username: centsoftware
-github_username: nguyenpc
-facebook_username: thang.be.2012
+twitter_username: 
+github_username: 
+facebook_username: 
 instagram_username: 
-linkedin_username: nguyenpc
+linkedin_username: 
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
